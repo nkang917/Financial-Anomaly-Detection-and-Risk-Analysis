@@ -8,3 +8,10 @@
 •	Optimized hyper-parameters with k-fold cross-validation and applied regularization to overcome overfitting.
 
 •	Evaluated model performance of classification and analyzed feature importance to identify top factors.
+
+# Summary of Fraud Detection
+• Data is highly imbalanced
+
+• Features of interval_after_signup and time related raw and aggregates are highly predictive of fraud
+
+• Made actionable operation recommendations/proposal for business
